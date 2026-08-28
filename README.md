@@ -1,5 +1,85 @@
-<h1 align="center">Hi 👋, I'm Huzaifa Ali</h1>
-<h3 align="center">A seasoned Full Stack Developer</h3>
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/></a><a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a><a href="https://www.chartjs.org" target="_blank" rel="noreferrer"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/></a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a><a href="https://www.electronjs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/></a><a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a><a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a><a href="https://graphql.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/></a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a><a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a><a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/></a><a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a><a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a><a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a><a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/></a><a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/></a><a href="https://rubyonrails.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a><a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a><a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a><a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a><a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a><a href="https://webpack.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/></a></p>
+# Hi there, I'm Huzaifa Ali 👋
+
+### Senior Full-Stack Engineer · AI / Gen AI & LLM Systems · Platform Engineering
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=Building+AI-powered+products+end+to+end;RAG+Pipelines+%7C+LLM+Agents+%7C+LangChain+%7C+LangGraph;React+%7C+Next.js+%7C+Node.js+%7C+NestJS+%7C+GraphQL;7%2B+years+shipping+SaaS%2C+Healthcare+%26+Real+Estate+platforms)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huzaifaali14)
+[![Email](https://img.shields.io/badge/Email-huzaifaali14%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huzaifaali14@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=huzaifaali14&color=2F80ED&style=for-the-badge)](https://github.com/huzaifaali14)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+Senior Full-Stack Engineer with **7+ years** architecting and shipping end-to-end software platforms across **SaaS, Healthcare, and Real Estate**. Recently focused on **Artificial Intelligence (AI)** and **Generative AI (Gen AI)** — building and integrating **RAG pipelines**, **LLM agents**, and **MCP servers** into production systems while leading engineering teams and designing **multi-tenant platforms** for enterprise clients at scale.
+
+- 🔭 Currently: **Lead Software Engineer @ Resortifi** — architecting a multi-tenant rental platform & agentic developer tooling (MCP)
+- 🤖 Working with: **LangChain · LangGraph · OpenAI SDK · Anthropic Claude · Vector Search · Embeddings · Prompt Engineering**
+- 🏗️ I own products from **UI/API design → data modeling → cloud deployment → observability**
+- 💬 Ask me about: **Gen AI integrations, RAG, GraphQL APIs, multi-tenant architecture, React/Node at scale**
+- 📫 Reach me: **huzaifaali14@gmail.com**
+
+---
+
+## 🧠 AI / Gen AI Toolbox
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI_SDK-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-2F80ED?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-8E44AD?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP_Servers-111111?style=for-the-badge)
+![Vector Search](https://img.shields.io/badge/Vector_Search_%26_Embeddings-27AE60?style=for-the-badge)
+
+## 🛠️ Tech Stack
+
+**Frontend & Mobile**
+
+[![Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,vite,tailwind,materialui,html,css&perline=10)](https://skillicons.dev)
+
+**Backend & APIs**
+
+[![Skills](https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,python,fastapi&perline=10)](https://skillicons.dev)
+
+**Databases, Messaging & Infra**
+
+[![Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,prisma,aws,gcp,docker,githubactions,cloudflare,firebase&perline=12)](https://skillicons.dev)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=huzaifaali14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifaali14&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<img src="https://streak-stats.demolab.com?user=huzaifaali14&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=huzaifaali14&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies" />
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/huzaifaali14/huzaifaali14/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Shipping AI-powered products, one commit at a time."* ⚡
+
+</div>
