@@ -4,7 +4,7 @@
 
 ### Senior Full-Stack Engineer · AI / Gen AI & LLM Systems · Platform Engineering
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=Building+AI-powered+products+end+to+end;RAG+Pipelines+%7C+LLM+Agents+%7C+LangChain+%7C+LangGraph;React+%7C+Next.js+%7C+Node.js+%7C+NestJS+%7C+GraphQL;7%2B+years+shipping+SaaS%2C+Healthcare+%26+Real+Estate+platforms)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=900&height=45&lines=Building+AI-powered+products+end+to+end;RAG+Pipelines+%7C+LLM+Agents+%7C+LangChain+%7C+LangGraph;React+%7C+Next.js+%7C+Node.js+%7C+NestJS+%7C+GraphQL;7%2B+years+shipping+SaaS%2C+Healthcare+%26+Real+Estate+platforms)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huzaifaali14)
 [![Email](https://img.shields.io/badge/Email-huzaifaali14%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huzaifaali14@gmail.com)
